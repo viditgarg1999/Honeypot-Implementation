@@ -26,7 +26,7 @@ us a clear vision of any kind of unusual activity
 ![](/images/3.jpg)
 
 **Data Stored in Json file**
-
+![](/images/13.jpg)
 
 This data Stored in Json file contains username and password of a specified user and then the user might use this credentials for logging into a Web Server.
 
