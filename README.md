@@ -21,18 +21,17 @@ us a clear vision of any kind of unusual activity
 ![](/images/2.jpg)
 
 
-</br>
 **Input Given in Python Script**
 ![](/images/3.jpg)
 
-</br>
+
 **Data Stored in Json file**
 ![](/images/13.jpg)
 
-</br>
+
 This data Stored in Json file contains username and password of a specified user and then the user might use this credentials for logging into a Web Server.
 
-</br>
+
 **Login Page**
 Now we enter the Credentials taken from the json data and thus we enter in the Login page
 ![](/images/4.png)
@@ -48,25 +47,24 @@ Now we enter the Credentials taken from the json data and thus we enter in the L
 
 ![](/images/6.png)
 
-</br>
+
 Then We Are given 3 attempts for the purpose of Login.
 
-</br>
+
 Thus, We Store IP of the user and all other details
 
 ![](/images/7.png)
 
-</br>
+
 **The Keylogger:** 
 
 ![](/images/8.jpg)
 ![](/images/9.jpg)
-</br>
+
 Screenshots and logs taken by the keylogger
 
 ![](/images/10.jpg)
 
-</br>
 
 **Image Capture:** 
 
