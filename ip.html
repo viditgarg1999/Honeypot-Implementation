@@ -1,0 +1,45 @@
+<html>
+
+<head>
+
+    <meta charset="utf-8" />
+
+    <title></title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+    <script>
+
+        var ipinfo;
+
+        $.getJSON("http://ipinfo.io", function (data) {
+
+            $("#info").html("City: " + data.city + " ,County: " + data.country + " ,IP: " + data.ip + " ,Location: " + data.loc + " ,Organisation: " + data.org + " ,Postal Code: " + data.postal + " ,Region: " + data.region + "")
+            $("#info").html("City: " + data.city)
+            $("#info1").html("Country: " + data.country)
+            $("#info2").html("Ip: " + data.ip)
+            $("#info3").html("Location: " + data.loc)
+            $("#info4").html("Organisation: " + data.org)
+            $("#inf5o").html("Postal Code: " + data.postal)
+            $("#info6").html("Region: " + data.region)
+        })
+
+    </script>
+
+</head>
+
+<body>
+
+    <p>Client's information:</p>
+
+    <p id="info"></p>
+    <p id="info1"></p>
+    <p id="info2"></p>
+    <p id="info3"></p>
+    <p id="info4"></p>
+    <p id="info5"></p>
+    <p id="info6"></p>
+
+</body>
+
+</html>
