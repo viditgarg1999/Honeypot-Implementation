@@ -51,7 +51,8 @@ Now we enter the Credentials taken from the json data and thus we enter in the L
 Then We Are given 3 attempts for the purpose of Login.
 
 
-Thus, We Store IP of the user and all other details
+If user entered the wrong credentials for 3 times out honeypot system will began where,</br>
+We Store IP of the user and all other details
 
 ![](/images/7.png)
 
